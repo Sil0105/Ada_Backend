@@ -4,7 +4,7 @@
 //• Usa el método sort().
 
 let numeros = [ 5, 2, 9, 1, 7 ];
-function numerosordenados(nuemeros) {
+function numerosordenados(numeros) {
  numeros.sort ((a, b) => a-b);
     return numeros;
 }
