@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Reynal & Hitchcock",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": 2,
+    "name": "Bloomsbury Publishing",
+    "country": "Reino Unido"
+  },
+  {
+    "id": 3,
+    "name": "Penguin Random House",
+    "country": "Estados Unidos"
+  },
+  {
+    "id": 4,
+    "name": "Ediciones Hora Cero",
+    "country": "Argentina"
+  },
+  {
+    "id": 5,
+    "name": "Editorial Sudamericana",
+    "country": "Argentina"
+  },
+  {
+    "id": 6,
+    "name": "Francisco de Robles",
+    "country": "España"
+  },
+  {
+    "name": "las ramas",
+    "country": "argentina",
+    "id": 7
+  },
+  {
+    "name": "Marina",
+    "country": "Arg",
+    "id": 8
+  },
+  {
+    "name": "las marinas",
+    "country": "belgica",
+    "id": 9
+  },
+  {
+    "name": "kk",
+    "country": "ñ´ñ",
+    "id": 10
+  }
+]
