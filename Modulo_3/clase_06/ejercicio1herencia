@@ -1,0 +1,28 @@
+
+class Torta {
+    nombre: string;
+    tipo: string;
+
+    constructor(nombre: string, tipo: string) {
+        this.nombre = nombre;
+        this.tipo = tipo;
+    }
+
+    hacerDescripcion(): string {
+        return `Soy una torta llamada ${this.nombre} y soy del tipo ${this.tipo}.`;
+    }
+}
+
+
+class TortaDeChocolate extends Torta {
+    constructor() {
+        super("Torta de Chocolate", "Chocolate");
+    }
+
+    override hacerDescripcion(): string {
+        return "Soy una torta de chocolate, deliciosa y suave.";
+    }
+}
+
+const miTorta = new TortaDeChocolate();
+console.log(miTorta.hacerDescripcion());
