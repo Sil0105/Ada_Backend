@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Emma"
+    },
+    {
+      "id": 2,
+      "name": "Sofía Pérez"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Notebook"
+    }
+  ],
+  "tasks": []
+}
